@@ -1,8 +1,8 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.auguin623.twa",
-        "sha256_cert_fingerprints": ["13:B8:5F:70:D2:2B:0D:FC:B2:A4:4A:B3:D9:28:7A:6D:04:6E:28:9F:B2:36:02:92:D5:9D:8D:03:03:53:B4:33"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.paintfinder.app",
+    "sha256_cert_fingerprints": ["39:21:B9:FA:6B:B0:41:58:04:ED:63:28:7C:1B:7D:01:50:B4:63:45:67:70:95:A9:30:8F:41:EF:1E:2F:17:C0"]
+  }
+}]
