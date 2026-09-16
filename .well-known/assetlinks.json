@@ -1,8 +1,11 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.paintfinder.app",
-    "sha256_cert_fingerprints": ["4B:6C:84:F4:26:26:F7:A0:39:68:DC:01:50:22:0F:F6:10:42:45:88:D0:20:CD:6C:C1:A0:54:3A:66:03:91:B6"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.paintfinder.app",
+      "sha256_cert_fingerprints":
+        ["4B:6C:84:F4:26:26:F7:A0:39:68:DC:01:50:22:0F:F6:10:42:45:88:D0:20:CD:6C:C1:A0:54:3A:66:03:91:B6"]
+    }
   }
-}]
+]
