@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.paintfinder.app",
-    "sha256_cert_fingerprints": ["39:21:B9:FA:6B:B0:41:58:04:ED:63:28:7C:1B:7D:01:50:B4:63:45:67:70:95:A9:30:8F:41:EF:1E:2F:17:C0"]
+    "sha256_cert_fingerprints": ["4B:6C:84:F4:26:26:F7:A0:39:68:DC:01:50:22:0F:F6:10:42:45:88:D0:20:CD:6C:C1:A0:54:3A:66:03:91:B6"]
   }
 }]
